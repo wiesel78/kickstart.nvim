@@ -8,3 +8,4 @@ export VAGRANT_WSL_ENABLE_WINDOWS_ACCESS="1"
 export EDITOR=vim
 export KUBE_EDITOR=vim
 
+. "$HOME/.cargo/env"

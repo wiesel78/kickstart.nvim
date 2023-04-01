@@ -1,0 +1,11 @@
+# cargo
+coreutils
+du-dust
+git-delta
+
+# apt
+zsh
+starship
+bat
+ripgrep
+
