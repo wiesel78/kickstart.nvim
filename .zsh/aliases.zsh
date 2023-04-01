@@ -9,7 +9,8 @@ alias ap="ansible-playbook"
 alias dt="datree"
 
 # ALIAS COMMANDS
-alias ll="ls -al"
+alias ls="exa"
+alias ll="exa -l"
 alias g="goto"
 alias grep='grep --color'
 

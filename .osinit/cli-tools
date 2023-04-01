@@ -2,6 +2,8 @@
 coreutils
 du-dust
 git-delta
+htmlq
+exa
 
 # apt
 zsh
