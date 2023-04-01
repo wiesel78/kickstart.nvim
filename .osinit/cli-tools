@@ -4,10 +4,13 @@ du-dust
 git-delta
 htmlq
 exa
+miniserve
+pastel
 
 # apt
 zsh
 starship
 bat
 ripgrep
+jq
 
