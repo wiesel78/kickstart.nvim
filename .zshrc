@@ -7,3 +7,6 @@
 # Load Starship
 eval "$(starship init zsh)"
 
+# Load colors (for exa)
+export LS_COLORS="$(vivid generate molokai)"
+export EXA_COLORS="da=32"

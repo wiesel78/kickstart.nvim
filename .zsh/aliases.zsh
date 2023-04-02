@@ -10,7 +10,7 @@ alias dt="datree"
 
 # ALIAS COMMANDS
 alias ls="exa"
-alias ll="exa -l"
+alias ll="exa -al"
 alias g="goto"
 alias grep='grep --color'
 
