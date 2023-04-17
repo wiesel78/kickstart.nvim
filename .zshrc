@@ -10,3 +10,7 @@ eval "$(starship init zsh)"
 # Load colors (for exa)
 export LS_COLORS="$(vivid generate molokai)"
 export EXA_COLORS="da=32"
+
+export VAGRANT_WSL_WINDOWS_ACCESS_USER_HOME_PATH="/mnt/c/Users/wurst"
+export VAGRANT_WSL_ENABLE_WINDOWS_ACCESS="1"
+export VAGRANT_DEFAULT_PROVIDER="hyperv"
