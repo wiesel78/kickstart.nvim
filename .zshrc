@@ -14,3 +14,12 @@ export EXA_COLORS="da=32"
 export VAGRANT_WSL_WINDOWS_ACCESS_USER_HOME_PATH="/mnt/c/Users/wurst"
 export VAGRANT_WSL_ENABLE_WINDOWS_ACCESS="1"
 export VAGRANT_DEFAULT_PROVIDER="hyperv"
+
+HISTFILE=~/.zsh_history
+HISTSIZE=10000
+SAVEHIST=1000
+setopt SHARE_HISTORY
+
+bindkey -v
+bindkey '^R' history-incremental-search-backward
+
