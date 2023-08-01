@@ -1,6 +1,4 @@
 # Alias
-# ---
-#
 alias k="kubectl"
 alias h="helm"
 alias tf="terraform"
@@ -14,3 +12,5 @@ alias ll="exa -al"
 alias g="goto"
 alias grep='grep --color'
 
+# fixes
+alias chrome="google-chrome-stable"
