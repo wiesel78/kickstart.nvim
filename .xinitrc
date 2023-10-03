@@ -1,1 +1,3 @@
-exec i3 --force-xinerama
+setxkbmap -layout "de,us"
+numlockx &
+exec awesome
