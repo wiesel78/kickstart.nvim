@@ -1,3 +1,3 @@
-setxkbmap -layout "de,us"
+setxkbmap -layout "de"
 numlockx &
 exec awesome
