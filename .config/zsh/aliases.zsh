@@ -5,6 +5,7 @@ alias tf="terraform"
 alias a="ansible"
 alias ap="ansible-playbook"
 alias dt="datree"
+alias hypr="Hyprland"
 
 # ALIAS COMMANDS
 alias ls="exa"
